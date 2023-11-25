@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css";
+
 import { WiDaySunny } from "react-icons/wi";
 import { MdNightlightRound } from "react-icons/md";
 import styled,{ ThemeProvider } from "styled-components";
